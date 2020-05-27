@@ -122,8 +122,8 @@ AddEventHandler("esx-qalle-jail:unJailPlayer", function(tI)
 	local src = source;
 	local targetIdentifier = tI;
 	local xTgt = ESX.GetPlayerFromIdentifier(targetIdentifier);
-	local tgt = xTgt.source;
 	if xTgt ~= nil then
+		local tgt = xTgt.source;
 		local legit = checkIfLegit(src, tgt);
 		if legit["legit"] == true then
 			UnJail(tgt)
