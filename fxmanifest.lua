@@ -1,10 +1,7 @@
---	esx-qalle-jail
---		2018
---		Carl "Qalle"
---		2018
---	esx-qalle-jail
+--	esx-qalle-jail | 2018 | Carl "Qalle"
 
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'adamant'
+game 'gta5'
 
 description "Jail Script With Working Job"
 
