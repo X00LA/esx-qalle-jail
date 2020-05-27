@@ -1,3 +1,6 @@
+# Security
+Tired of hackers putting your players in jail? Install this updated version with protected server events!
+
 # esx-qalle-jail
 
 [INFO]
